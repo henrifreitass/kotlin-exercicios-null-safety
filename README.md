@@ -58,17 +58,6 @@ Função que recebe uma `List<String?>` de e-mails e percorre com `for`, contand
 
 ---
 
-## ▶️ Como executar
-
-1. Clone o repositório:
-```bash
-   git clone https://github.com/henrifreitass/kotlin-exercicios-null-safety.git
-```
-2. Abra o projeto no **IntelliJ IDEA**.
-3. Abra o arquivo da questão desejada e execute a função `main` (botão ▶️ ao lado dela).
-
----
-
 ## 🛠️ Tecnologias
 
 - Kotlin
